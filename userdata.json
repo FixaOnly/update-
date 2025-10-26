@@ -33,12 +33,5 @@
     "expirydate": "26-11-2025",
     "Allowoffline": true,
     "notes": "Generated in batch of 5"
-  },
-  {
-    "device_id": "device-1761504208505-4",
-    "key": "SHADOW-MODS-11410",
-    "expirydate": "26-11-2025",
-    "Allowoffline": true,
-    "notes": "Generated in batch of 5"
   }
 ]
